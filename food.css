@@ -1,0 +1,9 @@
+.food-card-body {
+	height: 110px;
+}
+
+body{
+	background-image: url("images/coffeebg.jpg");
+  	background-size: cover;
+  	background-attachment: fixed;
+}
